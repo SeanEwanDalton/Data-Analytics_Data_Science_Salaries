@@ -6,4 +6,4 @@ Data visualisation of a Data Science Salaries Kaggle report created in Google Lo
 
 Steps as follows:
 
-. Sourced the data from Kaggle . Loaded into G-Sheets(due to large file size) . Cleaned the raw data transforming into enriched data . Analysed the enriched data in Looker and built the dashboard
+. Sourced the data from Kaggle . Loaded into G-Sheets . Cleaned the raw data transforming into enriched data . Analysed the enriched data in Looker and built the dashboard
